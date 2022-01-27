@@ -1,0 +1,4 @@
+baseURL = "https://PhotoB.com/"
+languageCode = "en-us"
+title = "PhotoB"
+theme = "ananke"

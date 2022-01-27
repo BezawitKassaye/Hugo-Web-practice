@@ -4,4 +4,6 @@ author: Bezawit M. Kassaye
 
 ---
 
-### My photographs
+### My photographs 
+
+What does this show?  
